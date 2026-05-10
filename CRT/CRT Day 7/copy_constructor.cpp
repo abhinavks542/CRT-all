@@ -29,7 +29,7 @@ int main(){
     Cricketers c1("virat kohli",12000);
     c1.show();
     Cricketers c2(c1);
-    c2.show();=
+    c2.show();
     return 0;
 }                                                                   
      
