@@ -11,7 +11,7 @@ public:
     {
         name = n;
         this->roll = roll;
-    }
+    }   
 
     void show()
     {
