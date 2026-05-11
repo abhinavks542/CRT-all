@@ -1,10 +1,3 @@
-/*
-Problem 11: Age Group Classifier
-Write a program that takes age as input.
-Check if the person is eligible for a discount (age < 12 or ≥ 65)
- and if they belong to the working age group (18–64).
-*/
-
 #include <iostream>
 using namespace std;
 

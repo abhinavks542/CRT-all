@@ -1,9 +1,3 @@
-/*
-Problem 7: Area of Shapes
-Write a program that calculates the area based on user choice: circle,
- rectangle, or triangle. Take required inputs and display the calculated area.
-*/
-
 #include <iostream>
 using namespace std;
 
